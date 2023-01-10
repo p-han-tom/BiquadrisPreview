@@ -6,6 +6,6 @@ Biquadris is a two-player, turn-based Tetris clone created for the final project
 
 To learn more about how we made the game and all the extra gameplay features we implemented, see design.pdf. 
 
-Here are some preview GIFs and images of the game:
+Here is a preview GIF of the game:
 
 ![putty_AddgdK3d6C](https://user-images.githubusercontent.com/59850346/211685858-589f44bc-b756-4155-81da-703e0ef883a8.gif)
